@@ -1,0 +1,68 @@
+body{
+    background-color: blue;
+}
+#nec {
+    
+    text-align: center;
+    background-color: red;
+    padding: 20px;
+}
+#nec a{
+    text-decoration: none;
+    color: black;
+}
+#flip {
+    background-color:beige;
+    padding: 20px;
+    
+    text-align: center;
+}
+#flip a{
+    text-decoration: none;
+    color: black;
+}
+#amazon {
+    background-color:gray;
+    text-align: center;
+    padding: 20px;
+}
+#amazon a{
+    text-decoration: none;
+    color: black;
+}
+#swiggy {
+    background-color: green;
+    text-align: center;
+    padding: 20px;
+}
+#swiggy a{
+    text-decoration: none;
+    color: black;
+}
+#youtube {
+    background-color: navajowhite;
+    text-align: center;
+    padding: 20px;
+}
+#youtube a{
+    text-decoration: none;
+    color: black;
+}
+#gmail {
+    background-color: aqua;
+    text-align: center;
+    padding: 20px;
+}
+#gmail a{
+    text-decoration: none;
+    color: black;
+}
+#spotify {
+    background-color: orange;
+    text-align: center;
+    padding: 20px;
+}
+#spotify a{
+    text-decoration: none;
+    color: black;
+}
